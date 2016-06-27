@@ -5,12 +5,12 @@ Circle button with sub buttons for Android
 ![Not Open](fob.png)
 ![Open](fob2.png)
 
-- Setting
-Put options with XML
-![Layout] (fob3.PNG)
-![Java] (fob3-1.PNG)
+-How To Code
+  - Put options with XML
+![XML Layout] (fob3.PNG)
+![Code Java] (fob3-1.PNG)
 
-Put options with Java
+- Put options with Java<br>
 ![Layout] (fob4.PNG)
 ![Java] (fob4-1.PNG)
 
