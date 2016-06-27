@@ -7,11 +7,11 @@ Circle button with sub buttons for Android
 
 - Setting
 Put options with XML
-![Layout] (fob3.png)
-![Java] (fob3-1.png)
+![Layout] (fob3.PNG)
+![Java] (fob3-1.PNG)
 
 Put options with Java
-![Layout] (fob4.png)
-![Java] (fob4-1.png)
+![Layout] (fob4.PNG)
+![Java] (fob4-1.PNG)
 
 Contact me => jiwow34@gmail.com
