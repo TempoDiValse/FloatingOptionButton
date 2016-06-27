@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="FloatingOptionButton">
+        <attr name="centerSrc" format="reference" />
+        <attr name="innerBackgroundColor" format="color" />
+        <attr name="outerBackgroundColor" format="color" />
+        <attr name="Option1Src" format="reference" />
+        <attr name="Option2Src" format="reference" />
+        <attr name="Option3Src" format="reference" />
+        <attr name="Option4Src" format="reference" />
+    </declare-styleable>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:FloatingOptionButton="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <lavalse.kr.floatingoptionbutton.FloatingOptionButton
+        android:id="@+id/fob"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        FloatingOptionButton:centerSrc="@drawable/ic_action_name"
+        FloatingOptionButton:innerBackgroundColor="#6495FF"
+        FloatingOptionButton:outerBackgroundColor="#E86787"
+        FloatingOptionButton:Option1Src="@drawable/option_view_forward"
+        FloatingOptionButton:Option2Src="@drawable/option_view_bottom"
+        FloatingOptionButton:Option3Src="@drawable/option_view_back"
+        FloatingOptionButton:Option4Src="@drawable/option_view_top"
+        />
+</RelativeLayout>
