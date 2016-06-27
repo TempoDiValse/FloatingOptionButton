@@ -3,8 +3,8 @@
 Check this sample images
 
 - UI
-![Not Open](fob.png)
-![Open](fob2.png)
+![Not Open](fob.png=300x)
+![Open](fob2.png=300x)
 
 -How To Code
   - Put options with XML
