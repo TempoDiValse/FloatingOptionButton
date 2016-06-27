@@ -1,5 +1,4 @@
 # FloatingOptionButton
-Circle button with sub buttons for Android
 
 - UI
 ![Not Open](fob.png)
